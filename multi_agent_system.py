@@ -19,7 +19,7 @@ class ResumeState(TypedDict, total=False):
     recommendations: str
 
 
-_DEFAULT_GOOGLE_API_KEY = "AIzaSyAwiOD6xXL4p1bDb4k9xDeIHB10PdjcG3M"
+_DEFAULT_GOOGLE_API_KEY = "API KEY TESTING"
 
 
 def get_llm(temperature: float = 0.2) -> ChatGoogleGenerativeAI:
