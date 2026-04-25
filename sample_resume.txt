@@ -1,0 +1,52 @@
+ARJUN MEHTA
+Bengaluru, India | +91-98765-43210 | arjun.mehta@email.com
+LinkedIn: linkedin.com/in/arjunmehta | GitHub: github.com/arjunmehta
+
+SUMMARY
+Backend software engineer with 4 years of experience building scalable REST APIs
+and data pipelines in Python and Go. Passionate about distributed systems, clean
+architecture, and mentoring junior engineers. Looking to transition into roles
+with a stronger focus on machine learning infrastructure.
+
+SKILLS
+Languages:       Python, Go, SQL, JavaScript (basic)
+Frameworks:      FastAPI, Django, Flask, Gin
+Databases:       PostgreSQL, Redis, MongoDB, Elasticsearch
+Cloud / DevOps:  AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes, GitHub Actions
+Tools:           Git, Linux, Grafana, Prometheus, Kafka, RabbitMQ
+
+WORK EXPERIENCE
+
+Senior Software Engineer — Zolvio Technologies, Bengaluru
+Aug 2023 – Present
+- Led migration of a monolithic Django service to 6 FastAPI microservices,
+  reducing p95 latency by 42% and cutting infra cost by ~30%.
+- Designed a Kafka-based event pipeline processing 15M events/day with
+  end-to-end latency under 800ms.
+- Mentored 3 junior engineers; introduced code-review standards that dropped
+  production incidents by 25% quarter-over-quarter.
+
+Software Engineer — Finlytics Labs, Remote
+Jun 2021 – Jul 2023
+- Built internal analytics API in Go serving 500+ RPS with 99.95% uptime.
+- Implemented Redis-backed caching layer cutting DB reads by 60%.
+- Automated nightly ETL jobs in Python + Airflow for 12 financial data sources.
+
+Software Engineering Intern — Paytm, Noida
+Jan 2021 – May 2021
+- Contributed to merchant onboarding API; shipped 4 endpoints used in production.
+- Wrote unit and integration tests raising service coverage from 58% to 81%.
+
+EDUCATION
+B.Tech, Computer Science — VIT Vellore
+2017 – 2021 | CGPA: 8.7/10
+
+PROJECTS
+- mini-kv: A Raft-based distributed key-value store written in Go (600+ GitHub
+  stars). Implements leader election, log replication, and snapshotting.
+- pyrate-limiter: Open-source Python library implementing token bucket and
+  sliding window rate limiters. 2.3k monthly downloads on PyPI.
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect – Associate (2023)
+- Certified Kubernetes Application Developer (CKAD) (2022)
